@@ -22,4 +22,12 @@ Chengdu, China
 - Finnish: Beginner 
 - Chinese: Beginnner 
 
+# Hobbies 
+- Singing 
+- Travelling 
+
+# Awards 
+- 100% scholarship in Tution & Accomodation at Sichuan University, China 
+- 100% scholarship in Tution fees at Tampere University, Finland. 
+
 
