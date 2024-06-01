@@ -9,3 +9,9 @@ I'm from Chittagong, Bangladesh. I have completed my Bachelor's in Software Engi
 1. M.Sc in Software, Web & Cloud
 Tampere University 
 Tampere, Finland
+
+2. B.Sc in Software Engineering 
+Sichuan University 
+Chengdu, China 
+
+
