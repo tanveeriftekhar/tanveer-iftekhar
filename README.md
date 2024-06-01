@@ -14,7 +14,7 @@ Tampere, Finland
 Sichuan University 
 Chengdu, China 
 
-#Languages 
+# Languages 
 - Bangla: Native 
 - English: Advanced 
 - Hindi: Intermediate 
