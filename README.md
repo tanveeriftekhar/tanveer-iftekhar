@@ -14,4 +14,12 @@ Tampere, Finland
 Sichuan University 
 Chengdu, China 
 
+#Languages 
+- Bangla: Native 
+- English: Advanced 
+- Hindi: Intermediate 
+- German: Beginner 
+- Finnish: Beginner 
+- Chinese: Beginnner 
+
 
